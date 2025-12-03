@@ -1,0 +1,7 @@
+# Python Pomodoro Timer
+# Tüm bağımlılıklar Python standart kütüphanesinde mevcut
+# Ekstra paket kurulumu gerekmez!
+
+# GUI versiyonu için: tkinter (Python ile birlikte gelir)
+# Terminal versiyonu için: sadece standart kütüphaneler
+
